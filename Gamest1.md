@@ -15,4 +15,4 @@ def draw():
 
 pyxel.run(update, draw)
 ```
-#For github: dont copy over the ```python and the ``` bc that will cause an error on run
+#For github: dont copy over the backticks they are for the syntax highlighting in github (bc that will cause an error on run)
