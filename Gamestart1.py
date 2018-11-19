@@ -1,6 +1,5 @@
 #top
 import pyxel
-from airbrake import *
 
 print("this is a test")
 pyxel.init(255, 255)
